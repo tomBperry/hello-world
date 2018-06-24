@@ -8,3 +8,4 @@ Objectives:
 
 Aims:
   To understand the basics of Git and Github.
+  To have a readable ReadMe.
