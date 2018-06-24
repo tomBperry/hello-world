@@ -1,7 +1,10 @@
 # hello-world
 Starting tutorial.
 
-Learning to use different branches in a project.
+Objectives:
+  Learning to use different branches in a project.
+  Editing to use for a pull request.
 
 
-Editing to use for a pull request.
+Aims:
+  To understand the basics of Git and Github.
